@@ -1,2 +1,2 @@
-# spidders
-curl spidders
+# spidder
+curl spidder
