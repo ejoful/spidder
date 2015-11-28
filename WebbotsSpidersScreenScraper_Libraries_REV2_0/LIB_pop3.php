@@ -5,7 +5,7 @@ Copyright 2007, Michael Schrenk
    This software is designed for use with the book,                                                             
    "Webbots, Spiders, and Screen Scarpers", Michael Schrenk, 2007 No Starch Press, San Francisco CA             
                                                                                                                 
-W3C® SOFTWARE NOTICE AND LICENSE                                                                                
+W3C? SOFTWARE NOTICE AND LICENSE                                                                                
                                                                                                                 
 This work (and included software, documentation such as READMEs, or other                                       
 related items) is being provided by the copyright holders under the following license.                          
@@ -71,7 +71,7 @@ POP3 Constants (scope = global)
 define("END_CHAR", ".");        // Identifies the POP3 multi line
                                 // termination character (if found
                                 // at the beginning of a line.
-define("POP3_PORT", "110");     // POP3 servers listen to port 110
+define("POP3_PORT", "995");     // POP3 servers listen to port 110
 
 /***********************************************************************
 POP3_connect($server, $user, $pass)                                     
